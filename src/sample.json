@@ -1,0 +1,976 @@
+
+    [
+      {"name": "Wriddhiman Saha", "ipl_team": "CSK", "year": 2012},
+      {"name": "Ravindra Jadeja", "ipl_team": "CSK", "year": 2012},
+      {"name": "Tim Southee", "ipl_team": "CSK", "year": 2012},
+      {"name": "Wriddhiman Saha", "ipl_team": "CSK", "year": 2013},
+      {"name": "Vijay Shankar", "ipl_team": "CSK", "year": 2013},
+      {"name": "Ankit Rajpoot", "ipl_team": "CSK", "year": 2013},
+      {"name": "Chris Morris", "ipl_team": "CSK", "year": 2013},
+      {"name": "Jason Holder", "ipl_team": "CSK", "year": 2013},
+      {"name": "Vijay Shankar", "ipl_team": "CSK", "year": 2014},
+      {"name": "Matt Henry", "ipl_team": "CSK", "year": 2014},
+      {"name": "Pawan Negi", "ipl_team": "CSK", "year": 2014},
+      {"name": "Ashish Nehra", "ipl_team": "CSK", "year": 2014},
+      {"name": "Samuel Badree", "ipl_team": "CSK", "year": 2014},
+      {"name": "Irfan Pathan", "ipl_team": "CSK", "year": 2015},
+      {"name": "Matt Henry", "ipl_team": "CSK", "year": 2015},
+      {"name": "Andrew Tye", "ipl_team": "CSK", "year": 2015},
+      {"name": "Pawan Negi", "ipl_team": "CSK", "year": 2015},
+      {"name": "Shardul Thakur", "ipl_team": "CSK", "year": 2018},
+      {"name": "Mark Wood", "ipl_team": "CSK", "year": 2018},
+      {"name": "Harbhajan Singh", "ipl_team": "CSK", "year": 2018},
+      {"name": "Kedar Jadhav", "ipl_team": "CSK", "year": 2018},
+      {"name": "Sam Billings", "ipl_team": "CSK", "year": 2018},
+      {"name": "Shardul Thakur", "ipl_team": "CSK", "year": 2019},
+      {"name": "Mark Wood", "ipl_team": "CSK", "year": 2019},
+      {"name": "Harbhajan Singh", "ipl_team": "CSK", "year": 2019},
+      {"name": "Kedar Jadhav", "ipl_team": "CSK", "year": 2019},
+      {"name": "Sam Billings", "ipl_team": "CSK", "year": 2019},
+      {"name": "Piyush Chawla", "ipl_team": "CSK", "year": 2020},
+      {"name": "Harbhajan Singh", "ipl_team": "CSK", "year": 2020},
+      {"name": "Josh Hazlewood", "ipl_team": "CSK", "year": 2020},
+      {"name": "Cheteshwar Pujara", "ipl_team": "CSK", "year": 2021},
+      {"name": "Robin Uthappa", "ipl_team": "CSK", "year": 2021},
+      {"name": "Jason Behrendorff", "ipl_team": "CSK", "year": 2021},
+      {"name": "Josh Hazlewood", "ipl_team": "CSK", "year": 2021},
+      {"name": "Mayank Agarwal", "ipl_team": "RCB", "year": 2012},
+      {"name": "Cheteshwar Pujara", "ipl_team": "RCB", "year": 2012},
+      {"name": "Saurabh Tiwary", "ipl_team": "RCB", "year": 2012},
+      {"name": "Rilee Rossouw", "ipl_team": "RCB", "year": 2012},
+      {"name": "Zaheer Khan", "ipl_team": "RCB", "year": 2012},
+      {"name": "Harshal Patel", "ipl_team": "RCB", "year": 2012},
+      {"name": "Mayank Agarwal", "ipl_team": "RCB", "year": 2013},
+      {"name": "Harshal Patel", "ipl_team": "RCB", "year": 2013},
+      {"name": "Jaydev Unadkat", "ipl_team": "RCB", "year": 2013},
+      {"name": "Rilee Rossouw", "ipl_team": "RCB", "year": 2014},
+      {"name": "Yuvraj Singh", "ipl_team": "RCB", "year": 2014},
+      {"name": "Parthiv Patel", "ipl_team": "RCB", "year": 2014},
+      {"name": "Mandeep Singh", "ipl_team": "RCB", "year": 2015},
+      {"name": "Rilee Rossouw", "ipl_team": "RCB", "year": 2015},
+      {"name": "Sarfaraz Khan", "ipl_team": "RCB", "year": 2015},
+      {"name": "Travis Head", "ipl_team": "RCB", "year": 2016},
+      {"name": "Mandeep Singh", "ipl_team": "RCB", "year": 2016},
+      {"name": "David Wiese", "ipl_team": "RCB", "year": 2016},
+      {"name": "Kedar Jadhav", "ipl_team": "RCB", "year": 2017},
+      {"name": "Samuel Badree", "ipl_team": "RCB", "year": 2017},
+      {"name": "Tabraiz Shamsi", "ipl_team": "RCB", "year": 2017},
+      {"name": "Brendon McCullum", "ipl_team": "RCB", "year": 2018},
+      {"name": "Moeen Ali", "ipl_team": "RCB", "year": 2018},
+      {"name": "Washington Sundar", "ipl_team": "RCB", "year": 2018},
+      {"name": "Nathan Coulter-Nile", "ipl_team": "RCB", "year": 2018},
+      {"name": "Umesh Yadav", "ipl_team": "RCB", "year": 2018},
+      {"name": "Heinrich Klaasen", "ipl_team": "RCB", "year": 2019},
+      {"name": "Shimron Hetmyer", "ipl_team": "RCB", "year": 2019},
+      {"name": "Washington Sundar", "ipl_team": "RCB", "year": 2019},
+      {"name": "Aaron Finch", "ipl_team": "RCB", "year": 2020},
+      {"name": "Isuru Udana", "ipl_team": "RCB", "year": 2020},
+      {"name": "Adam Zampa", "ipl_team": "RCB", "year": 2020},
+      {"name": "Washington Sundar", "ipl_team": "RCB", "year": 2021},
+      {"name": "Dushmantha Chameera", "ipl_team": "RCB", "year": 2021},
+      {"name": "Adam Zampa", "ipl_team": "RCB", "year": 2021},
+      {"name": "Siddarth Kaul", "ipl_team": "RCB", "year": 2022},
+      {"name": "Jason Behrendorff", "ipl_team": "RCB", "year": 2022},
+      {"name": "David Willey", "ipl_team": "RCB", "year": 2022},
+      {"name": "Wayne Parnell", "ipl_team": "RCB", "year": 2023},
+      {"name": "Reece Topley", "ipl_team": "RCB", "year": 2023},
+      {"name": "Siddarth Kaul", "ipl_team": "RCB", "year": 2023},
+      {"name": "Lockie Ferguson", "ipl_team": "RCB", "year": 2024},
+      {"name": "Tom Curran", "ipl_team": "RCB", "year": 2024},
+      {"name": "Reece Topley", "ipl_team": "RCB", "year": 2024},
+      {"name": "Mohammed Shami", "ipl_team": "KKR", "year": 2011},
+      {"name": "Jaydev Unadkat", "ipl_team": "KKR", "year": 2011},
+      {"name": "Eoin Morgan", "ipl_team": "KKR", "year": 2011},
+      {"name": "Brendon McCullum", "ipl_team": "KKR", "year": 2012},
+      {"name": "Sanju Samson", "ipl_team": "KKR", "year": 2012},
+      {"name": "Jaydev Unadkat", "ipl_team": "KKR", "year": 2012},
+      {"name": "Brendon McCullum", "ipl_team": "KKR", "year": 2013},
+      {"name": "Mohammed Shami", "ipl_team": "KKR", "year": 2013},
+      {"name": "Eoin Morgan", "ipl_team": "KKR", "year": 2013},
+      {"name": "Pat Cummins", "ipl_team": "KKR", "year": 2014},
+      {"name": "Kuldeep Yadav", "ipl_team": "KKR", "year": 2014},
+      {"name": "Piyush Chawla", "ipl_team": "KKR", "year": 2014},
+      {"name": "Suryakumar Yadav", "ipl_team": "KKR", "year": 2014},
+      {"name": "Chris Lynn", "ipl_team": "KKR", "year": 2014},
+      {"name": "James Neesham", "ipl_team": "KKR", "year": 2015},
+      {"name": "Piyush Chawla", "ipl_team": "KKR", "year": 2015},
+      {"name": "Morne Morkel", "ipl_team": "KKR", "year": 2015},
+      {"name": "Colin Munro", "ipl_team": "KKR", "year": 2016},
+      {"name": "Jaydev Unadkat", "ipl_team": "KKR", "year": 2016},
+      {"name": "Ankit Rajpoot", "ipl_team": "KKR", "year": 2016},
+      {"name": "Rovman Powell", "ipl_team": "KKR", "year": 2017},
+      {"name": "Rishi Dhawan", "ipl_team": "KKR", "year": 2017},
+      {"name": "Trent Boult", "ipl_team": "KKR", "year": 2017},
+      {"name": "Ankit Rajpoot", "ipl_team": "KKR", "year": 2017},
+      {"name": "Chris Woakes", "ipl_team": "KKR", "year": 2017},
+      {"name": "Tom Curran", "ipl_team": "KKR", "year": 2018},
+      {"name": "Piyush Chawla", "ipl_team": "KKR", "year": 2018},
+      {"name": "Robin Uthappa", "ipl_team": "KKR", "year": 2018},
+      {"name": "Carlos Brathwaite", "ipl_team": "KKR", "year": 2019},
+      {"name": "Robin Uthappa", "ipl_team": "KKR", "year": 2019},
+      {"name": "Kuldeep Yadav", "ipl_team": "KKR", "year": 2019},
+      {"name": "Prasidh Krishna", "ipl_team": "KKR", "year": 2019},
+      {"name": "Chris Lynn", "ipl_team": "KKR", "year": 2019},
+      {"name": "Aaron Finch", "ipl_team": "KKR", "year": 2022},
+      {"name": "Sam Billings", "ipl_team": "KKR", "year": 2022},
+      {"name": "Umesh Yadav", "ipl_team": "KKR", "year": 2022},
+      {"name": "Mohammad Nabi", "ipl_team": "KKR", "year": 2022},
+      {"name": "Johnson Charles", "ipl_team": "KKR", "year": 2023},
+      {"name": "David Wiese", "ipl_team": "KKR", "year": 2023},
+      {"name": "Lockie Ferguson", "ipl_team": "KKR", "year": 2023},
+        {
+          "name": "Quinton de Kock",
+          "ipl_team": "SRH",
+          "year": 2013
+        },
+        {
+          "name": "Chris Lynn",
+          "ipl_team": "SRH",
+          "year": 2013
+        },
+        {
+          "name": "Jean Paul Duminy",
+          "ipl_team": "SRH",
+          "year": 2013
+        },
+        {
+          "name": "Thisara Perera",
+          "ipl_team": "SRH",
+          "year": 2013
+        },
+        {
+          "name": "Hanuma Vihari",
+          "ipl_team": "SRH",
+          "year": 2013
+        },
+        {
+          "name": "Amit Mishra",
+          "ipl_team": "SRH",
+          "year": 2013
+        },
+        {
+          "name": "Aaron Finch",
+          "ipl_team": "SRH",
+          "year": 2014
+        },
+        {
+          "name": "Jason Holder",
+          "ipl_team": "SRH",
+          "year": 2014
+        },
+        {
+          "name": "Karn Sharma",
+          "ipl_team": "SRH",
+          "year": 2014
+        },
+        {
+          "name": "Amit Mishra",
+          "ipl_team": "SRH",
+          "year": 2014
+        },
+        {
+          "name": "Eoin Morgan",
+          "ipl_team": "SRH",
+          "year": 2015
+        },
+        {
+          "name": "KL Rahul",
+          "ipl_team": "SRH",
+          "year": 2015
+        },
+        {
+          "name": "Hanuma Vihari",
+          "ipl_team": "SRH",
+          "year": 2015
+        },
+        {
+          "name": "Kevin Pietersen",
+          "ipl_team": "SRH",
+          "year": 2015
+        },
+        {
+          "name": "Eoin Morgan",
+          "ipl_team": "SRH",
+          "year": 2016
+        },
+        {
+          "name": "Yuvraj Singh",
+          "ipl_team": "SRH",
+          "year": 2016
+        },
+        {
+          "name": "Deepak Hooda",
+          "ipl_team": "SRH",
+          "year": 2016
+        },
+        {
+          "name": "Vijay Shankar",
+          "ipl_team": "SRH",
+          "year": 2016
+        },
+        {
+          "name": "Trent Boult",
+          "ipl_team": "SRH",
+          "year": 2016
+        },
+        {
+          "name": "Mustafizur Rahman",
+          "ipl_team": "SRH",
+          "year": 2016
+        },
+        {
+          "name": "Karn Sharma",
+          "ipl_team": "SRH",
+          "year": 2016
+        },
+        {
+          "name": "Pravin Tambe",
+          "ipl_team": "SRH",
+          "year": 2017
+        },
+        {
+          "name": "Mustafizur Rahman",
+          "ipl_team": "SRH",
+          "year": 2017
+        },
+        {
+          "name": "Chris Jordan",
+          "ipl_team": "SRH",
+          "year": 2017
+        },
+        {
+          "name": "Vijay Shankar",
+          "ipl_team": "SRH",
+          "year": 2017
+        },
+        {
+          "name": "Alex Hales",
+          "ipl_team": "SRH",
+          "year": 2018
+        },
+        {
+          "name": "Wriddhiman Saha",
+          "ipl_team": "SRH",
+          "year": 2018
+        },
+        {
+          "name": "Carlos Brathwaite",
+          "ipl_team": "SRH",
+          "year": 2018
+        },
+        {
+          "name": "Deepak Hooda",
+          "ipl_team": "SRH",
+          "year": 2018
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "ipl_team": "SRH",
+          "year": 2018
+        },
+        {
+          "name": "Vijay Shankar",
+          "ipl_team": "SRH",
+          "year": 2020
+        },
+        {
+          "name": "Khaleel Ahmad",
+          "ipl_team": "SRH",
+          "year": 2020
+        },
+        {
+          "name": "Wriddhiman Saha",
+          "ipl_team": "SRH",
+          "year": 2020
+        },
+        {
+          "name": "Jason Holder",
+          "ipl_team": "SRH",
+          "year": 2020
+        },
+        {
+          "name": "Kedar Jadhav",
+          "ipl_team": "SRH",
+          "year": 2021
+        },
+        {
+          "name": "Mujeeb Ur Rahman",
+          "ipl_team": "SRH",
+          "year": 2021
+        },
+        {
+          "name": "Wriddhiman Saha",
+          "ipl_team": "SRH",
+          "year": 2021
+        },
+        {
+          "name": "Nicholas Pooran",
+          "ipl_team": "SRH",
+          "year": 2022
+        },
+        {
+          "name": "Shreyas Gopal",
+          "ipl_team": "SRH",
+          "year": 2022
+        },
+        {
+          "name": "Romario Shepherd",
+          "ipl_team": "SRH",
+          "year": 2022
+        },
+          {
+            "name": "Samuel Badree",
+            "ipl_team": "RR",
+            "year": 2013
+          },
+          {
+            "name": "Kusal Perera",
+            "ipl_team": "RR",
+            "year": 2013
+          },
+          {
+            "name": "James Faulkner",
+            "ipl_team": "RR",
+            "year": 2013
+          },
+          {
+            "name": "Shane Watson",
+            "ipl_team": "RR",
+            "year": 2013
+          },
+          {
+            "name": "Ben Cutting",
+            "ipl_team": "RR",
+            "year": 2014
+          },
+          {
+            "name": "Deepak Hooda",
+            "ipl_team": "RR",
+            "year": 2014
+          },
+          {
+            "name": "Steven Smith",
+            "ipl_team": "RR",
+            "year": 2014
+          },
+          {
+            "name": "Tim Southee",
+            "ipl_team": "RR",
+            "year": 2014
+          },
+          {
+            "name": "James Faulkner",
+            "ipl_team": "RR",
+            "year": 2015
+          },
+          {
+            "name": "Karun Nair",
+            "ipl_team": "RR",
+            "year": 2015
+          },
+          {
+            "name": "Steven Smith",
+            "ipl_team": "RR",
+            "year": 2015
+          },
+          {
+            "name": "D'Arcy Short",
+            "ipl_team": "RR",
+            "year": 2018
+          },
+          {
+            "name": "Rahul Tripathi",
+            "ipl_team": "RR",
+            "year": 2018
+          },
+          {
+            "name": "Shreyas Gopal",
+            "ipl_team": "RR",
+            "year": 2018
+          },
+          {
+            "name": "Krishnappa Gowtham",
+            "ipl_team": "RR",
+            "year": 2018
+          },
+          {
+            "name": "Jaydev Unadkat",
+            "ipl_team": "RR",
+            "year": 2018
+          },
+          {
+            "name": "Ish Sodhi",
+            "ipl_team": "RR",
+            "year": 2018
+          },
+          {
+            "name": "Rahul Tripathi",
+            "ipl_team": "RR",
+            "year": 2019
+          },
+          {
+            "name": "Shashank Singh",
+            "ipl_team": "RR",
+            "year": 2019
+          },
+          {
+            "name": "Ish Sodhi",
+            "ipl_team": "RR",
+            "year": 2019
+          },
+          {
+            "name": "David Miller",
+            "ipl_team": "RR",
+            "year": 2020
+          },
+          {
+            "name": "Tom Curran",
+            "ipl_team": "RR",
+            "year": 2020
+          },
+          {
+            "name": "Shashank Singh",
+            "ipl_team": "RR",
+            "year": 2020
+          },
+          {
+            "name": "Ankit Rajpoot",
+            "ipl_team": "RR",
+            "year": 2020
+          },
+          {
+            "name": "Jaydev Unadkat",
+            "ipl_team": "RR",
+            "year": 2020
+          },
+          {
+            "name": "Andrew Tye",
+            "ipl_team": "RR",
+            "year": 2020
+          },
+          {
+            "name": "Tabraiz Shamsi",
+            "ipl_team": "RR",
+            "year": 2021
+          },
+          {
+            "name": "Liam Livingstone",
+            "ipl_team": "RR",
+            "year": 2021
+          },
+          {
+            "name": "Glenn Phillips",
+            "ipl_team": "RR",
+            "year": 2021
+          },
+          {
+            "name": "Daryl Mitchell",
+            "ipl_team": "RR",
+            "year": 2022
+          },
+          {
+            "name": "James Neesham",
+            "ipl_team": "RR",
+            "year": 2022
+          },
+          {
+            "name": "Rassie van der Dussen",
+            "ipl_team": "RR",
+            "year": 2022
+          },
+          {
+            "name": "Navdeep Saini",
+            "ipl_team": "RR",
+            "year": 2022
+          },
+          {
+            "name": "Jason Holder",
+            "ipl_team": "RR",
+            "year": 2023
+          },
+          {
+            "name": "Adam Zampa",
+            "ipl_team": "RR",
+            "year": 2023
+          },
+          {
+            "name": "Navdeep Saini",
+            "ipl_team": "RR",
+            "year": 2023
+          },
+            {
+              "name": "Manan Vohra",
+              "ipl_team": "KXIP",
+              "year": 2013
+            },
+            {
+              "name": "Sandeep Sharma",
+              "ipl_team": "KXIP",
+              "year": 2013
+            },
+            {
+              "name": "Piyush Chawla",
+              "ipl_team": "KXIP",
+              "year": 2013
+            },
+            {
+              "name": "Shardul Thakur",
+              "ipl_team": "KXIP",
+              "year": 2014
+            },
+            {
+              "name": "Thisara Perera",
+              "ipl_team": "KXIP",
+              "year": 2014
+            },
+            {
+              "name": "Axar Patel",
+              "ipl_team": "KXIP",
+              "year": 2014
+            },
+            {
+              "name": "Murali Vijay",
+              "ipl_team": "KXIP",
+              "year": 2015
+            },
+            {
+              "name": "Shardul Thakur",
+              "ipl_team": "KXIP",
+              "year": 2015
+            },
+            {
+              "name": "Axar Patel",
+              "ipl_team": "KXIP",
+              "year": 2015
+            },
+            {
+              "name": "Manan Vohra",
+              "ipl_team": "KXIP",
+              "year": 2015
+            },
+            {
+              "name": "Wriddhiman Saha",
+              "ipl_team": "KXIP",
+              "year": 2015
+            },
+            {
+              "name": "Murali Vijay",
+              "ipl_team": "KXIP",
+              "year": 2016
+            },
+            {
+              "name": "Axar Patel",
+              "ipl_team": "KXIP",
+              "year": 2016
+            },
+            {
+              "name": "Shardul Thakur",
+              "ipl_team": "KXIP",
+              "year": 2016
+            },
+            {
+              "name": "Martin Guptill",
+              "ipl_team": "KXIP",
+              "year": 2017
+            },
+            {
+              "name": "Eoin Morgan",
+              "ipl_team": "KXIP",
+              "year": 2017
+            },
+            {
+              "name": "Rinku Singh",
+              "ipl_team": "KXIP",
+              "year": 2017
+            },
+            {
+              "name": "Axar Patel",
+              "ipl_team": "KXIP",
+              "year": 2017
+            },
+            {
+              "name": "Marcus Stoinis",
+              "ipl_team": "KXIP",
+              "year": 2017
+            },
+            {
+              "name": "Aaron Finch",
+              "ipl_team": "KXIP",
+              "year": 2018
+            },
+            {
+              "name": "Marcus Stoinis",
+              "ipl_team": "KXIP",
+              "year": 2018
+            },
+            {
+              "name": "Andrew Tye",
+              "ipl_team": "KXIP",
+              "year": 2018
+            },
+            {
+              "name": "Sarfaraz Khan",
+              "ipl_team": "KXIP",
+              "year": 2020
+            },
+            {
+              "name": "Chris Jordan",
+              "ipl_team": "KXIP",
+              "year": 2020
+            },
+            {
+              "name": "Karun Nair",
+              "ipl_team": "KXIP",
+              "year": 2020
+            },
+            {
+              "name": "Deepak Hooda",
+              "ipl_team": "KXIP",
+              "year": 2021
+            },
+            {
+              "name": "Moises Henriques",
+              "ipl_team": "KXIP",
+              "year": 2021
+            },
+            {
+              "name": "Adil Rashid",
+              "ipl_team": "KXIP",
+              "year": 2021
+            },
+              {
+                "name": "Rovman Powell",
+                "ipl_team": "DC",
+                "year": 2023
+              },
+              {
+                "name": "Mustafizur Rahman",
+                "ipl_team": "DC",
+                "year": 2023
+              },
+              {
+                "name": "Rilee Rossouw",
+                "ipl_team": "DC",
+                "year": 2023
+              },
+              {
+                "name": "Tim Seifert",
+                "ipl_team": "DC",
+                "year": 2022
+              },
+              {
+                "name": "Axar Patel",
+                "ipl_team": "DC",
+                "year": 2022
+              },
+              {
+                "name": "Shardul Thakur",
+                "ipl_team": "DC",
+                "year": 2022
+              },
+              {
+                "name": "Sam Billings",
+                "ipl_team": "DC",
+                "year": 2021
+              },
+              {
+                "name": "Shimron Hetmyer",
+                "ipl_team": "DC",
+                "year": 2021
+              },
+              {
+                "name": "Steven Smith",
+                "ipl_team": "DC",
+                "year": 2021
+              },
+              {
+                "name": "Tom Curran",
+                "ipl_team": "DC",
+                "year": 2021
+              },
+              {
+                "name": "Chris Woakes",
+                "ipl_team": "DC",
+                "year": 2021
+              },
+              {
+                "name": "Umesh Yadav",
+                "ipl_team": "DC",
+                "year": 2021
+              },
+              {
+                "name": "Alex Carey",
+                "ipl_team": "DC",
+                "year": 2020
+              },
+              {
+                "name": "Marcus Stoinis",
+                "ipl_team": "DC",
+                "year": 2020
+              },
+              {
+                "name": "Harshal Patel",
+                "ipl_team": "DC",
+                "year": 2020
+              },
+              {
+                "name": "Hanuma Vihari",
+                "ipl_team": "DC",
+                "year": 2019
+              },
+              {
+                "name": "Harshal Patel",
+                "ipl_team": "DC",
+                "year": 2019
+              },
+              {
+                "name": "Amit Mishra",
+                "ipl_team": "DC",
+                "year": 2019
+              },
+              {
+                "name": "Colin Munro",
+                "ipl_team": "DC",
+                "year": 2018
+              },
+              {
+                "name": "Dan Christian",
+                "ipl_team": "DC",
+                "year": 2018
+              },
+              {
+                "name": "Abhishek Sharma",
+                "ipl_team": "DC",
+                "year": 2018
+              },
+              {
+                "name": "Vijay Shankar",
+                "ipl_team": "DC",
+                "year": 2018
+              },
+              {
+                "name": "Mohammed Shami",
+                "ipl_team": "DC",
+                "year": 2018
+              },
+              {
+                "name": "Amit Mishra",
+                "ipl_team": "DC",
+                "year": 2018
+              },
+              {
+                "name": "Harshal Patel",
+                "ipl_team": "DC",
+                "year": 2018
+              },
+              {
+                "name": "Quinton de Kock",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Sam Billings",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Marlon Samuels",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Sanju Samson",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Carlos Brathwaite",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Shashank Singh",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Angelo Mathews",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Corey Anderson",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Pat Cummins",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Amit Mishra",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Navdeep Saini",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Mohammed Shami",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Khaleel Ahmad",
+                "ipl_team": "DC",
+                "year": 2017
+              },
+              {
+                "name": "Mayank Agarwal",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Quinton de Kock",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Sanju Samson",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Nathan Coulter-Nile",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Carlos Brathwaite",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Jean Paul Duminy",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Zaheer Khan",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Khaleel Ahmad",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Mohammed Shami",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Pawan Negi",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Jayant Yadav",
+                "ipl_team": "DC",
+                "year": 2016
+              },
+              {
+                "name": "Srikar Bharat",
+                "ipl_team": "DC",
+                "year": 2015
+              },
+              {
+                "name": "Saurabh Tiwary",
+                "ipl_team": "DC",
+                "year": 2015
+              },
+              {
+                "name": "Yuvraj Singh",
+                "ipl_team": "DC",
+                "year": 2015
+              },
+              {
+                "name": "Mayank Agarwal",
+                "ipl_team": "DC",
+                "year": 2015
+              },
+              {
+                "name": "Quinton de Kock",
+                "ipl_team": "DC",
+                "year": 2015
+              },
+              {
+                "name": "Angelo Mathews",
+                "ipl_team": "DC",
+                "year": 2015
+              },
+              {
+                "name": "Amit Mishra",
+                "ipl_team": "DC",
+                "year": 2015
+              },
+              {
+                "name": "Imran Tahir",
+                "ipl_team": "DC",
+                "year": 2015
+              },
+              {
+                "name": "Mohammed Shami",
+                "ipl_team": "DC",
+                "year": 2015
+              },
+              {
+                "name": "Jaydev Unadkat",
+                "ipl_team": "DC",
+                "year": 2015
+              },
+              {
+                "name": "Quinton de Kock",
+                "ipl_team": "DC",
+                "year": 2014
+              },
+              {
+                "name": "Ross Taylor",
+                "ipl_team": "DC",
+                "year": 2014
+              },
+              {
+                "name": "Saurabh Tiwary",
+                "ipl_team": "DC",
+                "year": 2014
+              },
+              {
+                "name": "Murali Vijay",
+                "ipl_team": "DC",
+                "year": 2014
+              },
+              {
+                "name": "Mayank Agarwal",
+                "ipl_team": "DC",
+                "year": 2014
+              },
+              {
+                "name": "Dinesh Karthik",
+                "ipl_team": "DC",
+                "year": 2014
+              },
+              {
+                "name": "Kedar Jadhav",
+                "ipl_team": "DC",
+                "year": 2014
+              },
+              {
+                "name": "Imran Tahir",
+                "ipl_team": "DC",
+                "year": 2014
+              }             
+    ]
